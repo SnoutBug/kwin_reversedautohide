@@ -17,3 +17,8 @@ You can add
 print(x,y)
 ```
 to on_move to find your dimensions
+
+Make the script executable
+
+Go to settings -> Startup and Shutdown -> Autostart
+  Add the script to Autostart
