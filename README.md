@@ -1,5 +1,6 @@
 # kwin_reversedautohide
 ## Hides a panel when hovering over it.
+https://www.youtube.com/watch?v=JHdHFx8Vp-c
 
 A python script that automatically hides a panel when hovering over it.
 
